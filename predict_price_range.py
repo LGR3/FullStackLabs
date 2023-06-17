@@ -53,5 +53,7 @@ if __name__ == '__main__':
 # Main function with sys.args for DEPLOY in CLI Cloud systems
 
 # if __name__ == '__main__':
-#     data_file = sys.argv[1]
-#     predict_big5()
+#     new_data = sys.argv[1]
+#     encoder = sys.argv[2]
+#     encoded_features = sys.argv[3]
+#     predict_price_range()
